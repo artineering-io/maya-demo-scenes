@@ -1,0 +1,5 @@
+With MNPRX August 2020 installed
+
+1. Set the Maya project to this folder
+2. Open the scene
+3. Have fun
