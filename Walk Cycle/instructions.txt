@@ -1,4 +1,4 @@
-With MNPRX May 2021 or newer installed
+With Flair 1.0.2 or newer installed (Maya 2022+ recommended)
 
 1. Set the Maya project to this folder
 2. Open the scene
