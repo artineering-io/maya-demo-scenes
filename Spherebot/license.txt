@@ -1,6 +1,5 @@
 Model:
-Spherebot
-https://sketchfab.com/3d-models/spherebot-17baf2bd295f460a924e62854ced1427
+https://skfb.ly/6pNQ6
 CC BY 4.0
 Bastien Genbrugge
 

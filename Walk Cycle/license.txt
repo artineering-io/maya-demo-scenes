@@ -1,2 +1,5 @@
-CC BY 4.0
+Model and Rig:
+Davide Benvenuti
+
+Animation and Stylization:
 Santiago Montesdeoca
