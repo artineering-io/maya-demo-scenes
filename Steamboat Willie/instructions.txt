@@ -1,0 +1,5 @@
+With Flair 1.1 or newer installed (Maya 2022+ recommended)
+
+1. Set the Maya project to this folder
+2. Open the scene
+3. Have fun
